@@ -1,5 +1,15 @@
 title: Nicholas Mutsaerts
+description: Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS & Linux
+
+url: "https://nicholasmutsaerts.github.io/portfolio"
+baseurl: ""  # Leave empty for user.github.io sites
+
 logo: /images/headshot_circle.png
-#description: text below image
-show_downloads: true
+
+#description: Theme
 theme: jekyll-theme-minimal
+show_downloads: false
+
+# GitHub settings
+github:
+  is_project_page: false
