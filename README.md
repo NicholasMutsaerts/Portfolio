@@ -94,6 +94,10 @@ WAN/LAN optimization is a set of techniques and technologies that improve data t
 
 ---
 
+[IT Technical Support Guides](https://nicholasmutsaerts.github.io/) will showcase my step-by-step documentation for common support workflows, system administration tasks, troubleshooting procedures, and configuration guides across Windows, macOS, Microsoft 365 and related technologies.
+
+---
+
 ### Connect with Me 
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
@@ -101,4 +105,4 @@ WAN/LAN optimization is a set of techniques and technologies that improve data t
 
 ---
 
-#### [Go to the Home Page]({{ '/' | absolute_url }})
+
