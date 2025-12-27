@@ -1,4 +1,4 @@
-# Microsoft System Administrator | Tier 2 Support | Windows 11 & MacOS Support Specialist | End-User Training | Security & Compliance
+# System Administrator | Tier 2 Support | Windows 11 & MacOS Support Specialist
 
 ---
 
