@@ -1,4 +1,4 @@
-# System Administrator | Tier 2 Support | Windows 11 & MacOS Support Specialist
+# System Administrator
 
 ---
 
